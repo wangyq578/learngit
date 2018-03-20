@@ -12,4 +12,7 @@ Creating a new branch is quick AND simple.
 20
 =======
 20
->>>>>>> fea2
+>>>>>>> 
+30
+
+
